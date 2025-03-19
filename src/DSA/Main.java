@@ -3,6 +3,7 @@ package DSA;
 class A{
     public void show(){
         System.out.println("Test");
+        System.out.println("test 2");
     }
 
 }
