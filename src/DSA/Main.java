@@ -12,6 +12,18 @@ class B extends A{
     public void show(){
         System.out.println("Test");
     }
+    public void idea(){
+        System.out.println("Test");
+    }
+    public void a(){
+        System.out.println("Test");
+    }
+    public void b(){
+        System.out.println("Test");
+    }
+    public void c(){
+        System.out.println("Test");
+    }
 }
 
 class Main {
